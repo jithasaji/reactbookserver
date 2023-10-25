@@ -1,0 +1,41 @@
+{
+  "seller": [],
+  "Books": [
+    {
+      "bookImage": "hit",
+      "bookName": "Akira",
+      "sellerName": "zelvia",
+      "authorName": "katsuhiro otomo",
+      "year": "1984",
+      "price": "13",
+      "id": 3
+    },
+    {
+      "bookImage": "ki",
+      "bookName": "naruto",
+      "sellerName": "sapy",
+      "authorName": "masashi kishimoto",
+      "year": "2000",
+      "price": "78",
+      "id": 4
+    },
+    {
+      "bookImage": "kavya",
+      "bookName": "DEATH NOTE",
+      "sellerName": "HIJI",
+      "authorName": "TSUGUMI OHBA",
+      "year": "2010",
+      "price": "20",
+      "id": 5
+    },
+    {
+      "bookImage": "kavya",
+      "bookName": "ONE PIECE",
+      "sellerName": "KUVI",
+      "authorName": "EIICHIRO ODA",
+      "year": "1997",
+      "price": "89",
+      "id": 6
+    }
+  ]
+}
